@@ -130,13 +130,11 @@ Comparison of DQN vs PPO vs TRPO performance
 
 📈 Example Results
 
-Sharpe ratio comparison
+Profit
 
-Profit curves
+Number of Trades
 
-Number of trades
-
-Win/loss ratio
+Profit Multiplier
 
 💡 Future Enhancements
 
